@@ -2,6 +2,7 @@ mheaders =  {'user-agent': 'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac
 dheaders={'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36'}
 import requests
 import sys
+import os
 reload(sys)
 sys.setdefaultencoding("utf-8")
 from bs4 import BeautifulSoup as bs
