@@ -1,1 +1,1 @@
-web python:backlinkchecker.py
+web: python backlinkchecker.py
