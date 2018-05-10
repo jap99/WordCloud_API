@@ -1,9 +1,10 @@
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+
 import requests
 from lxml.html import fromstring
  
 from wordcloud import WordCloud
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
 
 import time
 from flask import Flask
