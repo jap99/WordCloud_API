@@ -2,9 +2,9 @@ import requests
 from lxml.html import fromstring
  
 from wordcloud import WordCloud
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
-matplotlib.use('Agg')
 import time
 from flask import Flask
 from flask import jsonify
