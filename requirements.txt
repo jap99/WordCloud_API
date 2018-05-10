@@ -29,3 +29,4 @@ locket==0.2.0
 lxml==4.1.0
 requests==2.18.4
 six==1.11.0
+wordcloud==1.4.1
