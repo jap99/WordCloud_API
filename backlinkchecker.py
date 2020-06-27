@@ -1,12 +1,7 @@
-import matplotlib
-matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-
 import requests
 from lxml.html import fromstring
- 
 from wordcloud import WordCloud
-
 import time
 from flask import Flask
 from flask import jsonify
