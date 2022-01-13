@@ -6,3 +6,6 @@ The iOS client allows the user to enter a a top-level domain / URL into the sear
  - retrieve all its subdomains & url paths 
  - track which words were used the most & least
  - show the words that were used the most in larger bubbles than the words used less
+
+
+Please Note - This service does not currently return any backlinks.
