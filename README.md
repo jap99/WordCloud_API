@@ -1,4 +1,4 @@
-# Backlinks, Word Bubbles, SEO
+# Backlinks, Word Cloud, SEO
 
 This is the backend API endpoint used by the iOS client.
 
